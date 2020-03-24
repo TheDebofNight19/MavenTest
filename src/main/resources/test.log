@@ -1,0 +1,4 @@
+19:15:17,053  INFO TestMaven:test:10 - Hello this is test!
+19:15:17,058 ERROR TestMaven:test:11 - This is error message!
+19:15:17,058 TRACE TestMaven:test:12 - This is trace message!
+19:15:17,058  WARN TestMaven:test:13 - This is warn message!
